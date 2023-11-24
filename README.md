@@ -9,6 +9,9 @@ Project Description
 
 #### <a name="prerequisites"></a>Prerequisites
 * A complete install of `Python 3.x`.
+* Under `Documents`, a folder labelled `News`.
+* Under `Downloads`, the `PDF` files you want to rename and move.
+
 
 #### <a name="setup"></a>Setup
 1. Under your `USERPROFILE`, extract `program-name-main.zip`.
