@@ -14,21 +14,24 @@ Transpose PDF Filenames to Lowercase.
 
 
 #### <a name="setup"></a>Setup
-1. Under your `USERPROFILE`, extract `program-name-main.zip`.
+1. Under your `USERPROFILE`, extract `transpose-pdf-filenames-to-lowercase-main.zip`.
 
 **Example**:
-```
+```batch
+C:\Users\nso89\transpose-pdf-filenames-to-lowercase-main
 ```
 #### <a name="running-the-script"></a>Running the Script
-1. Open `cmd.exe` and change the directory to the `program-name-main` folder.
+1. Open `cmd.exe` and change the directory to the `transpose-pdf-filenames-to-lowercase-main` folder.
 
 **Example**:
-```
+```batch
+C:\Users\nso89>cd transpose-pdf-filenames-to-lowercase-main
 ```
 2. Start the `main.py` script.
 
 **Example**:
-```
+```batch
+C:\Users\nso89\transpose-pdf-filenames-to-lowercase-main>python main.py
 ```
 #### <a name="configuration"></a>Configuration
 If you need to change the `insert-variable-name(s)`:
