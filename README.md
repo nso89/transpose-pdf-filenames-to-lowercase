@@ -34,6 +34,11 @@ C:\Users\nso89\transpose-pdf-filenames-to-lowercase-main>python main.py
 
 3. The script changes the file name to lowercase letters, and moves it from `Downloads` to `Documents\News`.
 
+**Example**:
+```batch
+C:\Users\nso89\Downloads\QEII foundation gets $1 million CTV News.pdf -> C:\Users\nso89\Documents\News\qeii-foundation-gets-$1-million-ctv-news.pdf
+```
+
 #### <a name="configuration"></a>Configuration
 If you need to change the `SOURCE`, `Destination_PARENT` or `VALID_FILE_EXT`:
 
