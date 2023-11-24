@@ -36,7 +36,7 @@ C:\Users\nso89\transpose-pdf-filenames-to-lowercase-main>python main.py
 
 **Example**:
 ```batch
-C:\Users\nso89\Downloads\QEII foundation gets $1 million CTV News.pdf -> C:\Users\nso89\Documents\News\qeii-foundation-gets-$1-million-ctv-news.pdf
+C:\Users\nso89\Downloads\QEII foundation gets $1 million.pdf -> C:\Users\nso89\Documents\News\qeii-foundation-gets-$1-million.pdf
 ```
 
 #### <a name="configuration"></a>Configuration
