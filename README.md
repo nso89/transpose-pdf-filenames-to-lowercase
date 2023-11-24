@@ -1,5 +1,5 @@
-# project-name
-Project Description
+# transpose-pdf-filenames-to-lowercase
+Transpose PDF Filenames to Lowercase.
 
 * [Prerequisites](#prerequisites)
 * [Setup](#setup)
