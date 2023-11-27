@@ -2,7 +2,7 @@ from pathlib import Path
 
 
 SOURCE = Path.home().joinpath("Downloads")
-Destination_PARENT = Path.home().joinpath("Documents\\News")
+DESTINATION_PARENT = Path.home().joinpath("Documents\\News")
 VALID_FILE_EXT = ".pdf"
 
 
@@ -13,7 +13,7 @@ def main():
         for file in SOURCE.iterdir():
             if file.is_file() and file.suffix == VALID_FILE_EXT:
                 converted_file_name = file.name.lower().replace(" ","-")
-                destination = Destination_PARENT.joinpath(converted_file_name)
+                destination = DESTINATION_PARENT.joinpath(converted_file_name)
                 print(f"{file} -> {destination}")
                 file.rename(destination)
     
